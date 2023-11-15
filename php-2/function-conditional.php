@@ -22,7 +22,7 @@
     // Uncomment the lines below to run the function
     greetings("Bagas");
     greetings("Wahyu");
-    greetings("nama peserta");
+    greetings("jesicha");
 
     echo "<br>";
 
@@ -43,7 +43,7 @@
     }
 
     // Uncomment the lines below to run the function
-    reverseString("nama peserta");
+    reverseString("jesicha");
     reverseString("Garuda Cyber Institute");
     reverseString("We Are GC-Ins Developer");
 
